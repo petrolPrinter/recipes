@@ -4,7 +4,7 @@
       "name": "Gemüsefrikadellen",
       "category": "Gerichte",
       "portion": "8 Buletten",
-      "source": "https://www.gaumenfreundin.de/gemuesefrikadellen/ (25.04.24)",
+      "source": "https://www.gaumenfreundin.de/gemuesefrikadellen (25.04.24)",
       "ingredients": {
         "1": "2 Möhren",
         "2": "1 Kartoffel",
@@ -56,7 +56,7 @@
       "preperation": {
         "time": "40 Min.",
         "direction": {
-          "1": "Kürbis entkernen und grob würfeln. Zwiebeln und Knoblauch fein würfeln. Paprika halbieren, dann 1/2 Paprikaschote fein würfeln (Deko zum drüber treuen). Übrige Schoten grob würfeln. Ingwer schälen und fein reiben. Chili längs aufschneiden entkernen und fein hacken.",
+          "1": "Kürbis entkernen und grob würfeln. Zwiebeln und Knoblauch fein würfeln. Paprika halbieren, dann ½ Paprikaschote fein würfeln (Deko zum drüber treuen). Übrige Schoten grob würfeln. Ingwer schälen und fein reiben. Chili längs aufschneiden entkernen und fein hacken.",
           "2": "Hack, Ei, Semmelbröseln, Knoblauch, Salz, Pfeffer, Paprika, Nelkenpulver und Zimt verkneten. Anschließend kleine Bällchen formen und in 3EL Butterschmalz rundum 5min braten.",
           "3": "In einem großen Topf 1EL Butterschmalz erhitzen und die Zwiebeln darin andünsten. Grobe Paprikastücke, Kürbis, Ingwer, Chili und Brühe zugeben und etwa 20 min köcheln. Suppe pürieren und die Sahne unterrühren.",
           "4": "Hackbällchen in tiefe Teller verteilen, die Suppe drüber gießen und fein gewürfelte Paprikastückchen mit der Petasilie ebenfalls drüber streuen."
@@ -68,26 +68,31 @@
       "name": "Barbecue-Blumenkohl-Bites",
       "category": "Gerichte",
       "portion": "2",
-      "source": "",
+      "source": "https://www.chefkoch.de/rezepte/3542051529521924/Asia-Blumenkohl-Wings.html (25.04.24)",
       "ingredients": {
         "1": "1 Blumenkohl",
         "2": "125g Reismehl",
         "3": "¾TL Salz",
-        "4": "",
-        "5": "40g Mais",
+        "4": "¼TL Pfeffer",
+        "5": "½TL geräuchertes Paprikapulver",
         "6": "275ml heißes Wasser",
-        "7": "100g Mehl",
-        "8": "50g Semmelbrösel",
-        "9": "Salz",
-        "10": "Pfeffer",
-        "11": "Olivenöl zum Braten"
+        "7": "100ml Wasser",
+        "8": "100ml Sojasauce",
+        "9": "100ml Ahornsirup",
+        "10": "50ml Reisweinessig",
+        "11": "1EL Knoblauch",
+        "12": "1EL Speisestärke",
+        "13": "2TL Sesamöl",
+        "14": "1TL Sriracha-Sauce"
       },
       "preperation": {
-        "time": "30 Min.",
+        "time": "60 Min.",
         "direction": {
-          "1": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "2": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "3": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+          "1": "Ofen 200°C Ober-/Unterhitze vorheizen.",
+          "2": "Blumenkohl in Röschen teilen. Heißes Wasser, Reismehl, Backpulver und Salz verrühren und Blumenkohlröschen unterrühren. Überschüssigen Teig abtropfen lassen und die Röschen (ohne gegenseitige Berührung) auf ein Backblech legen.",
+          "3": "Im heißen Ofen 20 min backen lassen, bis der Teig getrocknet ist",
+          "4": "Saucenzutaten (Wasser, Sojasauce, Ahornsirup, Reisweinessig, Knoblauch, Speisestärke, Sesamöl, Sriracha-Sauce) kurz aufkochen lassen, bis die Sauce andickt.",
+          "5": "Röschen aus dem Ofen nehmen und die Soße mit einem Silikonpinsil aufstreichen. Dann 5-10 min in den Ofen."
         }
       }
     },
