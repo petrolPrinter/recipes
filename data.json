@@ -4,15 +4,16 @@
       "name": "Gemüsefrikadellen",
       "category": "Gerichte",
       "portion": "8 Buletten",
+      "source": "https://www.gaumenfreundin.de/gemuesefrikadellen/ (25.04.24)",
       "ingredients": {
-        "1": "2  Möhren",
-        "2": "1  Kartoffel",
-        "3": "1  weiße Zwiebel",
-        "4": "1  Zucchini",
-        "5": "40 g  Mais",
-        "6": "1  Ei",
-        "7": "100 g  Mehl",
-        "8": "50 g  Semmelbrösel",
+        "1": "2 Möhren",
+        "2": "1 Kartoffel",
+        "3": "1 weiße Zwiebel",
+        "4": "1 Zucchini",
+        "5": "40g Mais",
+        "6": "1 Ei",
+        "7": "100g Mehl",
+        "8": "50g Semmelbrösel",
         "9": "Salz",
         "10": "Pfeffer",
         "11": "Olivenöl zum Braten"
@@ -31,25 +32,34 @@
       "name": "Kürbissuppe mit Hackbällchen",
       "category": "Gerichte",
       "portion": "4",
+      "source": "https://www.chefkoch.de/rezepte/1293531234569658/Kuerbissuppe-mit-Hackbaellchen.html (25.04.24)",
       "ingredients": {
         "1": "800g Kürbis",
         "2": "1 Zwiebel",
         "3": "2 Knoblauchzehen",
         "4": "2 Paprikaschoten (rot)",
         "5": "1Stk. Ingwerwurzel (Walnuss groß)",
-        "6": "1 Chillischote",
+        "6": "1 Chilischote",
         "7": "300g Hackfleisch (gemischt)",
         "8": "1 Ei",
         "9": "3EL Semmelbrösel",
-        "10": "Pfeffer",
-        "11": "Olivenöl zum Braten"
+        "10": "Salz",
+        "11": "Pfeffer",
+        "12": "Paprikapulver (edelsüß)",
+        "13": "1-Prise Nelkenpulver",
+        "14": "1-PriseZimtpulver",
+        "15": "4EL Butterschmalz",
+        "16": "600ml Fleischbrühe",
+        "17": "100g Schlagsahne",
+        "18": "2 EL Petersilie (gehackt)"
       },
       "preperation": {
         "time": "40 Min.",
         "direction": {
-          "1": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "2": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "3": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+          "1": "Kürbis entkernen und grob würfeln. Zwiebeln und Knoblauch fein würfeln. Paprika halbieren, dann 1/2 Paprikaschote fein würfeln (Deko zum drüber treuen). Übrige Schoten grob würfeln. Ingwer schälen und fein reiben. Chili längs aufschneiden entkernen und fein hacken.",
+          "2": "Hack, Ei, Semmelbröseln, Knoblauch, Salz, Pfeffer, Paprika, Nelkenpulver und Zimt verkneten. Anschließend kleine Bällchen formen und in 3EL Butterschmalz rundum 5min braten.",
+          "3": "In einem großen Topf 1EL Butterschmalz erhitzen und die Zwiebeln darin andünsten. Grobe Paprikastücke, Kürbis, Ingwer, Chili und Brühe zugeben und etwa 20 min köcheln. Suppe pürieren und die Sahne unterrühren.",
+          "4": "Hackbällchen in tiefe Teller verteilen, die Suppe drüber gießen und fein gewürfelte Paprikastückchen mit der Petasilie ebenfalls drüber streuen."
         }
       }
     },
@@ -58,6 +68,7 @@
       "name": "Gemüsefrikadellen",
       "category": "Gerichte",
       "portion": "8 Buletten",
+      "source": "",
       "ingredients": {
         "1": "2 Möhren",
         "2": "1 Kartoffel",
@@ -85,6 +96,7 @@
       "name": "Gemüsefrikadellen",
       "category": "Gerichte",
       "portion": "8 Buletten",
+      "source": "",
       "ingredients": {
         "1": "2 Möhren",
         "2": "1 Kartoffel",
@@ -112,6 +124,7 @@
       "name": "Gemüsefrikadellen",
       "category": "Gerichte",
       "portion": "8 Buletten",
+      "source": "",
       "ingredients": {
         "1": "2 Möhren",
         "2": "1 Kartoffel",
