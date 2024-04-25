@@ -5,14 +5,14 @@
       "category": "Gerichte",
       "portion": "8 Buletten",
       "ingredients": {
-        "1": "2 Möhren",
-        "2": "1 Kartoffel",
-        "3": "1 weiße Zwiebel",
-        "4": "1 Zucchini",
-        "5": "40g Mais",
-        "6": "1 Ei",
-        "7": "100g Mehl",
-        "8": "50g Semmelbrösel",
+        "1": "2  Möhren",
+        "2": "1  Kartoffel",
+        "3": "1  weiße Zwiebel",
+        "4": "1  Zucchini",
+        "5": "40 g  Mais",
+        "6": "1  Ei",
+        "7": "100 g  Mehl",
+        "8": "50 g  Semmelbrösel",
         "9": "Salz",
         "10": "Pfeffer",
         "11": "Olivenöl zum Braten"
@@ -21,31 +21,31 @@
         "time": "30 Min.",
         "direction": {
           "1": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "2": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "3": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+          "2": "Gemüse mit Mais, Ei, Mehl und Semmelbröseln mischen und die Masse mit Salz und Pfeffer würzen. Mit angefeuchteten Händen Buletten formen.",
+          "3": "Öl in einer Pfanne erhitzen und die Gemüsefrikadellen bei mittlerer Hitze für 4-5 min pro Seite kross anbraten."
         }
       }
     },
     {
       "id": 2,
-      "name": "Gemüsefrikadellen",
+      "name": "Kürbissuppe mit Hackbällchen",
       "category": "Gerichte",
-      "portion": "8 Buletten",
+      "portion": "4",
       "ingredients": {
-        "1": "2 Möhren",
-        "2": "1 Kartoffel",
-        "3": "1 weiße Zwiebel",
-        "4": "1 Zucchini",
-        "5": "40g Mais",
-        "6": "1 Ei",
-        "7": "100g Mehl",
-        "8": "50g Semmelbrösel",
-        "9": "Salz",
+        "1": "800g Kürbis",
+        "2": "1 Zwiebel",
+        "3": "2 Knoblauchzehen",
+        "4": "2 Paprikaschoten (rot)",
+        "5": "1Stk. Ingwerwurzel (Walnuss groß)",
+        "6": "1 Chillischote",
+        "7": "300g Hackfleisch (gemischt)",
+        "8": "1 Ei",
+        "9": "3EL Semmelbrösel",
         "10": "Pfeffer",
         "11": "Olivenöl zum Braten"
       },
       "preperation": {
-        "time": "30 Min.",
+        "time": "40 Min.",
         "direction": {
           "1": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
           "2": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
