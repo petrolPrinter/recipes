@@ -1,152 +1,137 @@
 [
     {
       "id": 1,
-      "name": "Lasagne",
+      "name": "Gemüsefrikadellen",
       "category": "Gerichte",
+      "portion": "8 Buletten",
       "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
+        "1": "2 Möhren",
+        "2": "1 Kartoffel",
+        "3": "1 weiße Zwiebel",
+        "4": "1 Zucchini",
+        "5": "40g Mais",
+        "6": "1 Ei",
+        "7": "100g Mehl",
+        "8": "50g Semmelbrösel",
+        "9": "Salz",
+        "10": "Pfeffer",
+        "11": "Olivenöl zum Braten"
       },
       "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
+        "time": "30 Min.",
+        "direction": {
+          "1": "1. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "2": "2. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "3": "3. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+        }
       }
     },
     {
       "id": 2,
-      "name": "Pommes",
+      "name": "Gemüsefrikadellen",
       "category": "Gerichte",
+      "portion": "8 Buletten",
       "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
+        "1": "2 Möhren",
+        "2": "1 Kartoffel",
+        "3": "1 weiße Zwiebel",
+        "4": "1 Zucchini",
+        "5": "40g Mais",
+        "6": "1 Ei",
+        "7": "100g Mehl",
+        "8": "50g Semmelbrösel",
+        "9": "Salz",
+        "10": "Pfeffer",
+        "11": "Olivenöl zum Braten"
       },
       "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
+        "time": "30 Min.",
+        "direction": {
+          "1": "1. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "2": "2. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "3": "3. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+        }
       }
     },
     {
       "id": 3,
-      "name": "Choco-Muffins",
-      "category": "Muffins",
+      "name": "Gemüsefrikadellen",
+      "category": "Gerichte",
+      "portion": "8 Buletten",
       "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
+        "1": "2 Möhren",
+        "2": "1 Kartoffel",
+        "3": "1 weiße Zwiebel",
+        "4": "1 Zucchini",
+        "5": "40g Mais",
+        "6": "1 Ei",
+        "7": "100g Mehl",
+        "8": "50g Semmelbrösel",
+        "9": "Salz",
+        "10": "Pfeffer",
+        "11": "Olivenöl zum Braten"
       },
       "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
+        "time": "30 Min.",
+        "direction": {
+          "1": "1. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "2": "2. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "3": "3. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+        }
       }
     },
     {
       "id": 4,
-      "name": "Käsekuchen",
-      "category": "Kuchen",
+      "name": "Gemüsefrikadellen",
+      "category": "Gerichte",
+      "portion": "8 Buletten",
       "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
+        "1": "2 Möhren",
+        "2": "1 Kartoffel",
+        "3": "1 weiße Zwiebel",
+        "4": "1 Zucchini",
+        "5": "40g Mais",
+        "6": "1 Ei",
+        "7": "100g Mehl",
+        "8": "50g Semmelbrösel",
+        "9": "Salz",
+        "10": "Pfeffer",
+        "11": "Olivenöl zum Braten"
       },
       "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
+        "time": "30 Min.",
+        "direction": {
+          "1": "1. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "2": "2. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "3": "3. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+        }
       }
     },
     {
       "id": 5,
-      "name": "Joghurt-Müsli",
-      "category": "Nachtisch",
-      "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
-      },
-      "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
-      }
-    },
-    {
-      "id": 6,
-      "name": "Weißbrot",
-      "category": "Brot & Brötchen",
-      "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
-      },
-      "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
-      }
-    },
-    {
-      "id": 7,
-      "name": "Spaghetti",
+      "name": "Gemüsefrikadellen",
       "category": "Gerichte",
+      "portion": "8 Buletten",
       "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
+        "1": "2 Möhren",
+        "2": "1 Kartoffel",
+        "3": "1 weiße Zwiebel",
+        "4": "1 Zucchini",
+        "5": "40g Mais",
+        "6": "1 Ei",
+        "7": "100g Mehl",
+        "8": "50g Semmelbrösel",
+        "9": "Salz",
+        "10": "Pfeffer",
+        "11": "Olivenöl zum Braten"
       },
       "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
-      }
-    },
-    {
-      "id": 8,
-      "name": "Schwarzwälderkirsch Torte",
-      "category": "Kuchen",
-      "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
-      },
-      "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
-      }
-    },
-    {
-      "id": 9,
-      "name": "Erdbeereis",
-      "category": "Nachtisch",
-      "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
-      },
-      "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
-      }
-    },
-    {
-      "id": 10,
-      "name": "Pizza",
-      "category": "Gerichte",
-      "ingredients": {
-        "1": "Zutat 1",
-        "2": "Zutat 2",
-        "3": "Zutat 3",
-        "4": "Zutat 4"
-      },
-      "preperation": {
-        "time": "2 Stunden",
-        "direction": "Du musst erst so backen, dann fertig"
+        "time": "30 Min.",
+        "direction": {
+          "1": "1. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "2": "2. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
+          "3": "3. Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+        }
       }
     }
   ]
