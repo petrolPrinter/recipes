@@ -98,57 +98,48 @@
     },
     {
       "id": 4,
-      "name": "Gemüsefrikadellen",
+      "name": "Pizzabrötchen",
       "category": "Gerichte",
-      "portion": "8 Buletten",
+      "portion": "26 Pizzabrötchen",
       "source": "",
       "ingredients": {
-        "1": "2 Möhren",
-        "2": "1 Kartoffel",
-        "3": "1 weiße Zwiebel",
-        "4": "1 Zucchini",
-        "5": "40g Mais",
-        "6": "1 Ei",
-        "7": "100g Mehl",
-        "8": "50g Semmelbrösel",
-        "9": "Salz",
-        "10": "Pfeffer",
-        "11": "Olivenöl zum Braten"
+        "1": "13 normale Brötchen",
+        "2": "300g gekochter Schinken",
+        "3": "300g Salami",
+        "4": "250g geriebener Gouda",
+        "5": "3EL Tomatenketchup",
+        "6": "2 Becher Schmand",
+        "7": "Pizzagewürz"
       },
       "preperation": {
         "time": "30 Min.",
         "direction": {
-          "1": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "2": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "3": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+          "1": "Die Brötchen durchschneiden, sodass 26 Hälften entstehen.",
+          "2": "Den gekochten Schinken und Salami in kleine Würfel schneiden und in eine Schüssel geben.",
+          "3": "Den geriebener Gouda, Tomatenketchap und Schmand dazugeben. Anschließend gut vermischen und Pizzagewürz hinzugeben",
+          "4": "Die Brötchenhälften mit der Masse beschmieren und im vorgeheiztend Backofen bei 180° für 10min überbacken."
         }
       }
     },
     {
       "id": 5,
-      "name": "Gemüsefrikadellen",
+      "name": "Pizzateig",
       "category": "Gerichte",
-      "portion": "8 Buletten",
+      "portion": "2 Bleche",
       "source": "",
       "ingredients": {
-        "1": "2 Möhren",
-        "2": "1 Kartoffel",
-        "3": "1 weiße Zwiebel",
-        "4": "1 Zucchini",
-        "5": "40g Mais",
-        "6": "1 Ei",
-        "7": "100g Mehl",
-        "8": "50g Semmelbrösel",
-        "9": "Salz",
-        "10": "Pfeffer",
-        "11": "Olivenöl zum Braten"
+        "1": "500g Mehl",
+        "2": "40g Hefe",
+        "3": "¼l lauwarmes Wasser",
+        "4": "Salz",
+        "5": "2EL Cognac"
       },
       "preperation": {
         "time": "30 Min.",
         "direction": {
-          "1": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "2": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken.",
-          "3": "Möhren, Kartoffeln und Zwiebeln schälen und grob reiben. Zucchini ebenfalls mit einer Reibe grob zerkleinern. Das Gemüse in eine Schüssel geben und salzen. 10 min ziehen lassen, dann die Flüssigkeit mit einem Küchentuch gut ausdrpücken."
+          "1": "Den Teig mit Hefe und lauwarmen Wasser verrühren. Mit einem Küchentuch die Schüssel abdecken. 10min ruhen lassen",
+          "2": "Restliches Wasser, Salz, sowie Congnac hinzufügen und schön kneten. Mit einem Küchentuch abgedeckt weitere 30min ruhen lassen.",
+          "3": "Den Teig ausrollen und fertig belegen."
         }
       }
     }
