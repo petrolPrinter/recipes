@@ -86,7 +86,7 @@
         "14": "1TL Sriracha-Sauce"
       },
       "preperation": {
-        "time": "60 Min.",
+        "time": "1 Std.",
         "direction": {
           "1": "Ofen 200°C Ober-/Unterhitze vorheizen.",
           "2": "Blumenkohl in Röschen teilen. Heißes Wasser, Reismehl, Backpulver und Salz verrühren und Blumenkohlröschen unterrühren. Überschüssigen Teig abtropfen lassen und die Röschen (ohne gegenseitige Berührung) auf ein Backblech legen.",
@@ -101,7 +101,7 @@
       "name": "Pizzabrötchen",
       "category": "Gerichte",
       "portion": "26 Pizzabrötchen",
-      "source": "",
+      "source": "#",
       "ingredients": {
         "1": "13 normale Brötchen",
         "2": "300g gekochter Schinken",
@@ -117,7 +117,7 @@
           "1": "Die Brötchen durchschneiden, sodass 26 Hälften entstehen.",
           "2": "Den gekochten Schinken und Salami in kleine Würfel schneiden und in eine Schüssel geben.",
           "3": "Den geriebener Gouda, Tomatenketchap und Schmand dazugeben. Anschließend gut vermischen und Pizzagewürz hinzugeben",
-          "4": "Die Brötchenhälften mit der Masse beschmieren und im vorgeheiztend Backofen bei 180° für 10min überbacken."
+          "4": "Die Brötchenhälften mit der Masse beschmieren und im vorgeheiztend Backofen bei 180°C für 10 min überbacken."
         }
       }
     },
@@ -127,6 +127,147 @@
       "category": "Gerichte",
       "portion": "2 Bleche",
       "source": "https://www.booklooker.de/B%C3%BCcher/Angebote/titel=KOCHEN+INTERNATIONAL+das+einzigartige+Rezept-Lexikon+Band+14+pal+-+pol?zid=14n8atqagfefcc1j9m33itugvr",
+      "ingredients": {
+        "1": "500g Mehl",
+        "2": "40g Hefe",
+        "3": "¼L lauwarmes Wasser",
+        "4": "Salz",
+        "5": "2EL Cognac"
+      },
+      "preperation": {
+        "time": "30 Min.",
+        "direction": {
+          "1": "Den Teig mit Hefe und lauwarmen Wasser verrühren. Mit einem Küchentuch die Schüssel abdecken. 10min ruhen lassen.",
+          "2": "Restliches Wasser, Salz, sowie Congnac hinzufügen und schön kneten. Mit einem Küchentuch abgedeckt weitere 30 min ruhen lassen.",
+          "3": "Den Teig ausrollen und fertig belegen."
+        }
+      }
+    },
+    {   
+      "id": 6,
+      "name": "Marmorkuchen (Mutter)",
+      "category": "Kuchen",
+      "portion": "1 Kuchen",
+      "source": "#",
+      "ingredients": {
+        "1": "300g Butter",
+        "2": "25g Vanillezucker",
+        "3": "250g Zucker",
+        "4": "3-4 Eier",
+        "5": "1Pr. Salz",
+        "6": "1cl Rum - Aroma",
+        "7": "500g Mehl",
+        "8": "1Pä. Backpulver",
+        "9": "⅛L Milch"
+      },
+      "preperation": {
+        "time": "1 Std. 30min",
+        "direction": {
+          "1": "Butter, Vanillezucker, Zucker und Salz mit dem Schneebesen cremig rühren. Danach die Eier einzeln unterrühren",
+          "2": "Mehl mit Backpulver mischen und im wechsel mit der ½ Milch unterrühren.",
+          "3": "Backform ausfetten und mit Mehl ausstreuen. Dann ⅔ des Teiges in die Form gießen.",
+          "4": "Unter den restlichen Teig Kakao und Rum - Aroma rühren. Nun den dunklen Teig auf den hellen Teig in die Form füllen und mit einer Gabel spiralförmig unterheben.",
+          "5": "Marmorkuchen im vorgeheitzten Backofen 1 Stunde bei 180°C backen lassen.",
+          "6": "Den Kuchen ca. 15 min in der Form abkühlen lassen, um ihn folgend vorsichtig aus der Form zu befreien."
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rotweinkuchen",
+      "category": "Kuchen",
+      "portion": "1 Kuchen",
+      "source": "#",
+      "ingredients": {
+        "1": "250g Zucker",
+        "2": "250 g Mehl",
+        "3": "250g Butter",
+        "4": "4 Eier",
+        "5": "1Pä. Backpulver",
+        "6": "1TL Zimt",
+        "7": "2TL Kakao",
+        "8": "1TL gemahlene Nelken",
+        "9": "1 Tasse Rotwein",
+        "10": "100g geraspelte Blockschokolade"
+      },
+      "preperation": {
+        "time": "1 Std. 5 Min.",
+        "direction": {
+          "1": "Die Butter und den Zucker cremig rühren und die Eier einzeln unterrühren",
+          "2": "Mehl, Backpulver, Zimt, Kakao und gemalene Nelken vermischen und zum Teig geben. Hiernach den Rotwein zugeben und alles verrühren. Zuletzt die geraspelte Schokolade hinzugeben und ebenfalls unterrühren.",
+          "3": "Teig in die Form füllen und im vorgeheizten Backofen 1 Stunde bei 180°C backen lassen.",
+          "4": "Den Kuchen ca. 15 min in der Form abkühlen lassen. Später aus der Form befreien."
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name": "Maulwurfkuchen",
+      "category": "Kuchen Torte",
+      "portion": "1 Kuchen",
+      "source": "https://sallys-blog.de/rezepte/maulwurfkuchen-maulwurftorte",
+      "ingredients": {
+        "1": "130g Butter",
+        "2": "4 Eiweiß",
+        "3": "4 Eigelb",
+        "4": "130g Zucker",
+        "5": "1 Glas Milch",
+        "6": "Vanille",
+        "7": "1Pr. Salz",
+        "8": "50g Kakao",
+        "9": "50g Stärke",
+        "10": "70g Mehl",
+        "11": "1Pä. Backpulver",
+        "12": "20g Sahne",
+        "13": "5TL San Apart",
+        "14": "2EL Puderzucker",
+        "15": "Vanille",
+        "16": "4 Bananen",
+        "17": "50g Schokoraspeln",
+        "18": "200g Joghurt",
+        "19": "250g Quark",
+        "20": "30g Zucker"
+      },
+      "preperation": {
+        "time": "30 Min.",
+        "direction": {
+          "1": "Für den Rührteig: Eiweiß mit Salz steifen, die Hälfte des Zuckers dazugeben und verrühren. Butter mit dem restlichen Zucker cremig rühren, Eigelb und Vanille unterrühren. Kakao, Mehl, Stärke und Backpulver vermischen und mit der Milch zügig in die Buttermasse einrühren. Eischnee unterheben.",
+          "2": "Teig in die Springform füllen und am rand etwas hochstreichen. Etwa 25 min backen und komplett abkühlen lassen",
+          "3": "Den Teig 1cm am Rand 5mm tief einschneiden und aushöhlen. Die Kuchenreste zerkrümeln und beiseite stellen.",
+          "4": "Für die Füllung: Sahne mit San Apart steifen, dabei Puderzucker und Vanille hinzufügen. Bananen schälen, längs halbieren und den Kuchen damit komplett belegen. Darüber einige Schokoraspeln streuen. Die restlichen Schokoraspeln unter die Sahne heben.",
+          "5": "Die Sahne kuppelförmig auf den Kuchen streichen und mit den Kuchenkrümeln bedecken.",
+          "6": "Kuchen mindestens 2 min kühlen"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "#####",
+      "category": "Gerichte",
+      "portion": "2 Bleche",
+      "source": "#",
+      "ingredients": {
+        "1": "500g Mehl",
+        "2": "40g Hefe",
+        "3": "¼l lauwarmes Wasser",
+        "4": "Salz",
+        "5": "2EL Cognac"
+      },
+      "preperation": {
+        "time": "30 Min.",
+        "direction": {
+          "1": "Den Teig mit Hefe und lauwarmen Wasser verrühren. Mit einem Küchentuch die Schüssel abdecken. 10min ruhen lassen",
+          "2": "Restliches Wasser, Salz, sowie Congnac hinzufügen und schön kneten. Mit einem Küchentuch abgedeckt weitere 30min ruhen lassen.",
+          "3": "Den Teig ausrollen und fertig belegen."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name": "#####",
+      "category": "Gerichte",
+      "portion": "2 Bleche",
+      "source": "#",
       "ingredients": {
         "1": "500g Mehl",
         "2": "40g Hefe",
