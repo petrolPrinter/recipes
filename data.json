@@ -161,7 +161,7 @@
         "9": "⅛L Milch"
       },
       "preperation": {
-        "time": "1 Std.  30 Min.",
+        "time": "1 Std. 30 Min.",
         "direction": {
           "1": "Butter, Vanillezucker, Zucker und Salz mit dem Schneebesen cremig rühren. Danach die Eier einzeln unterrühren",
           "2": "Mehl mit Backpulver mischen und im wechsel mit der ½ Milch unterrühren.",
@@ -191,7 +191,7 @@
         "10": "100g geraspelte Blockschokolade"
       },
       "preperation": {
-        "time": "1 Std.  5 Min.",
+        "time": "1 Std. 5 Min.",
         "direction": {
           "1": "Die Butter und den Zucker cremig rühren und die Eier einzeln unterrühren",
           "2": "Mehl, Backpulver, Zimt, Kakao und gemalene Nelken vermischen und zum Teig geben. Hiernach den Rotwein zugeben und alles verrühren. Zuletzt die geraspelte Schokolade hinzugeben und ebenfalls unterrühren.",
@@ -242,61 +242,80 @@
     },
     {
       "id": 9,
-      "name": "#",
-      "category": "#",
-      "portion": "#",
-      "source": "#",
+      "name": "Marzipantorte",
+      "category": "Kuchen Torte",
+      "portion": "1 Torte",
+      "source": "https://www.chefkoch.de/rezepte/420681132709411/Marzipantorte.html",
       "ingredients": {
-        "1": "8 Ei(er)",
-        "2": "300 g Zucker",
-        "3": "320 g Mehl",
-        "4": "1 TL Backpulver",
-        "5": "1 Prise(n) Salz",
-        "6": "1 Pck. Puddingpulver (Vanille)",
-        "7": "40 g Zucker",
-        "8": "300 ml Milch",
-        "9": "200 ml Sahne",
-        "10": "150 g Nougat",
-        "11": "1 Pck. Vanillezucker",
-        "12": "2 Pck. Sahnesteif",
-        "13": "1 Pck. Puddingpulver (Vanille)",
-        "14": "500 ml Milch",
-        "15": "3 EL Zucker",
-        "16": "200 g Marzipan",
-        "17": "250 ml Sahne",
-        "18": "1 Pck. Sahnesteif",
-        "19": "1 Marzipan - Decke",
-        "20": "200 g Marzipan",
+        "1": "8 Eier",
+        "2": "300g Zucker",
+        "3": "320g Mehl",
+        "4": "1TL Backpulver",
+        "5": "1Pr. Salz",
+        "6": "1Pck. Puddingpulver (Vanille)",
+        "7": "40g Zucker",
+        "8": "300ml Milch",
+        "9": "200ml Sahne",
+        "10": "150g Nougat",
+        "11": "1Pck. Vanillezucker",
+        "12": "2Pck. Sahnesteif",
+        "13": "1Pck. Puddingpulver (Vanille)",
+        "14": "500ml Milch",
+        "15": "3EL Zucker",
+        "16": "200g Marzipan",
+        "17": "250ml Sahne",
+        "18": "1Pck. Sahnesteif",
+        "19": "1Marzipan - Decke",
+        "20": "200g Marzipan",
         "21": "Lebensmittelfarbe, rot und grün"
       },
       "preperation": {
-        "time": "6 Std.  30 Min.",
+        "time": "6 Std. 30 Min.",
         "direction": {
-          "1": "#",
-          "2": "#",
-          "3": "#"
+          "1": "Biskuitteig herstellen und gleichmäßig auf zwei vorbereitete Springformen verteilen. Im vorgeheizten Backofen bei 190 Grad Celsius für etwa 25 Minuten backen. Böden abkühlen lassen und jeweils einmal horizontal durchschneiden.",
+          "2": "Nussnougatfüllung zubereiten: Puddingpulver mit Milch anrühren, Nussnougat verflüssigen, Pudding kochen und erkalten lassen, dann mit geschlagener Sahne vermengen.",
+          "3": "Marzipanfüllung zubereiten: Pudding kochen, Marzipan schmelzen, Pudding abkühlen lassen und mit geschlagener Sahne vermengen.",
+          "4": "Nussnougatcreme auf den größeren Boden streichen und Deckel darauflegen. Marzipancreme auf den kleineren Boden streichen und Deckel darauflegen. Kleine Torte auf die große Torte setzen und Marzipandecke darauflegen.",
+          "5": "Marzipanrohmasse einfärben, Blätter und Rosenblüten formen und die Torte damit verzieren.",
+          "6": "Torte für etwa 3 Stunden kalt stellen."
         }
       }
     },
     {
       "id": 10,
-      "name": "#",
-      "category": "#",
-      "portion": "#",
-      "source": "#",
+      "name": "Schaumkuss Muffins (Hi-Hat Muffins)",
+      "category": "Muffins",
+      "portion": "12 Stück",
+      "source": "https://sallys-blog.de/rezepte/schaumkuss-muffins-hi-hat-muffins",
       "ingredients": {
-        "1": "#",
-        "2": "#",
-        "3": "#",
-        "4": "#",
-        "5": "#"
+        "1": "150g Butter (weich)",
+        "2": "150g Zucker",
+        "3": "1Pr. Salz",
+        "4": "Vanilleextrakt",
+        "5": "2 Eier (zimmerwarm)",
+        "6": "160g Mehl",
+        "7": "30g Kakao",
+        "8": "½TL Backpulver",
+        "9": "¼TL Natron",
+        "10": "Milch (Raumtemperatur)",
+        "11": "100g Schokoladendrops",
+        "12": "3 Eiweiße",
+        "13": "1Pr. Salz",
+        "14": "200g Puderzucker",
+        "15": "½TL Weinsteinbackpulver",
+        "16": "300g Zartbitterkuvertüre",
+        "17": "10g Kokosfett"
       },
       "preperation": {
-        "time": "#",
+        "time": "30 Min.",
         "direction": {
-          "1": "#",
-          "2": "#",
-          "3": "#"
+          "1": "Ofen auf 175°C Ober-/Unterhitze vorheizen.",
+          "2": "Butter, Zucker, Salz und Vanilleextrakt cremig rühren. Eier einzeln hinzufügen und jeweils für eine halbe Minute einrühren. Trockene Zutaten und Schokodrops kurz mit etwas Milch vermengen.",
+          "3": "Teig in Muffinpapierförmchen füllen und bei 175°C Ober-/Unterhitze für 20 Minuten backen. Muffins komplett abkühlen lassen.",
+          "4": "Für die Marshmallow-Masse Eiweiß mit Salz und Puderzucker in eine saubere Metallschüssel geben. Über einem Wasserbad für ca. 10 Minuten erhitzen und dabei mit einem Schneebesen rühren. Nach 10 Minuten Weinsteinbackpulver hinzufügen und für weitere 5 Minuten rühren.",
+          "5": "Masse in der Küchenmaschine oder mit dem Handrührgerät sehr steif rühren. In einen Spritzbeutel mit großer Lochtülle füllen und Muffins damit bespritzen, einen hohen 'Hut' formen. Muffins im Kühlschrank für etwa 30 Minuten ruhen lassen.",
+          "6": "Kuvertüre temperieren. Kuvertüre in ein hohes Glas füllen und Muffins einzeln eintauchen. Muffins abtropfen lassen und auf ein Abkühlgitter setzen. Erneut für 30 Minuten im Kühlschrank fest werden lassen.",
+          "7": "Übrige Kuvertüre für Schoko-Crossies verwenden. Cornflakes und Mandelsplitter mit der Kuvertüre vermengen. Masse mit einem kleinen Eisportionierer oder Teelöffel auf ein Backblech setzen und fest werden lassen."
         }
       }
     }
