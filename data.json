@@ -318,5 +318,35 @@
           "7": "Übrige Kuvertüre für Schoko-Crossies verwenden. Cornflakes und Mandelsplitter mit der Kuvertüre vermengen. Masse mit einem kleinen Eisportionierer oder Teelöffel auf ein Backblech setzen und fest werden lassen."
         }
       }
+    },
+    {
+      "id": 11,
+      "name": "Pizza-Suppe",
+      "category": "Gerichte",
+      "portion": "7 Portionen",
+      "source": "#",
+      "ingredients": {
+        "1": "1kg gewürztes Hackfleisch",
+        "2": "Zwiebeln",
+        "3": "2 Zehen Knoblauch",
+        "4": "850ml Tomaten mit Brühe (2 Dosen)",
+        "5": "2 Dosen Pilze",
+        "6": "2 Dosen Mais",
+        "7": "1 Philadelphia",
+        "8": "1 Sahne",
+        "9": "3 Paprika",
+        "10": "Salz",
+        "11": "Pfeffer",
+        "12": "Pizzagewürz",
+        "13": "Oregano"
+      },
+      "preperation": {
+        "time": "20 Min.",
+        "direction": {
+          "1": "Das gewürzte Hackfleisch mit Zwiebeln und 2 Zehen Knoblauch anbraten",
+          "2": "Die Paprika würfeln und alle Zutaten zusammengeben",
+          "3": "Mit Salz, Pfeffer, Pizzagewürz und Oregano abschmecken"
+        }
+      }
     }
   ]
