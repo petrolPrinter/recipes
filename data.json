@@ -348,5 +348,53 @@
           "3": "Mit Salz, Pfeffer, Pizzagewürz und Oregano abschmecken"
         }
       }
+    },
+    {
+      "id": 12,
+      "name": "Kräuterbutter",
+      "category": "Sonstige",
+      "portion": "1 Glas",
+      "source": "#",
+      "ingredients": {
+        "1": "900ml Schlagsahne",
+        "2": "Schnittlauch",
+        "3": "Dill",
+        "4": "Petersillie",
+        "5": "Knoblauch",
+        "6": "Salz"
+      },
+      "preperation": {
+        "time": "20 Min.",
+        "direction": {
+          "1": "Die Schlagsahne in einer Schüssel schlagen bis sie fest ist und Flüssigkeit entstanden ist",
+          "2": "Die Butter mit der Flüssigkeit (Buttermilch) durch ein Sieb laufen lassen",
+          "3": "Die Butter in eine Schüssel füllen und kaltes Wasser hinzugeben (Butter waschen). Die Butter im Wasser etwas kneten (waschen). Das Wasser mehrmals wechseln, bis es fast klar bleibt",
+          "4": "Alle Kräuter zur Butter hinzufügen und vermischen",
+          "5": "Nun die fertige Butter in eine beliebige Form füllen und in den Kühlschrank stellen"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name": "Käse",
+      "category": "Sonstige",
+      "portion": "500g Käse",
+      "source": "#",
+      "ingredients": {
+        "1": "1L Milch",
+        "2": "1-2Tl Salz",
+        "3": "2 Eier",
+        "4": "250ml Saure-Sahne"
+      },
+      "preperation": {
+        "time": "30 Min.",
+        "direction": {
+          "1": "Erhitze die Milch in einem großen Topf auf 100°C (Milch dehnt sich aus)",
+          "2": "Die Sahne und die Eier mit dem Salz in einer Schüssel cremig rühren",
+          "3": "Die Mischung zur heißen Milch geben und warten bis sich Klumpen bilden",
+          "4": "Ein Küchenhandtuch in ein Sieb legen und eine Schüssel darunter stellen. Nun das Gemisch in das Sieb füllen, um die Molke zu entfernen",
+          "5": "Zuletzt den Käse in eine gewünschte Form drücken und ein paar Tage beschweren, bis die gewünschte festigkeit erreicht ist"
+        }
+      }
     }
   ]
