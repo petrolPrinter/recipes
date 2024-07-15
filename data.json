@@ -396,5 +396,56 @@
           "5": "Zuletzt den Käse in eine gewünschte Form drücken und ein paar Tage beschweren, bis die gewünschte festigkeit erreicht ist"
         }
       }
+    },
+    {
+      "id": 14,
+      "name": "Thousand-Islands-Dressing",
+      "category": "Salatsoße Salatdressing",
+      "portion": "4 Portionen",
+      "source": "#",
+      "ingredients": {
+        "1": "1 kleine Gewürzgurke",
+        "2": "½ Schalotte",
+        "3": "¼ rote Paprikaschote",
+        "4": "2 hart gekochte Eigelbe",
+        "5": "50g Salatmayonnaise",
+        "6": "3EL Schlagsahne",
+        "7": "3EL Tomatenketchup",
+        "8": "Salz",
+        "9": "Chillipulver"
+      },
+      "preperation": {
+        "time": "35 Min.",
+        "direction": {
+          "1": "Die Gurke sehr  klein würfeln. Die Schalotte abziehen und ebenfalls sehr fein würfeln.",
+          "2": "Die Paprika im Ofen  erhitzen, bis die  Schale aufplatzt. Die Paprika häuten  und das Fruchtfleisch sehr fein hacken.",
+          "3": "Die Eigelbe durch  ein Sieb  streichen, mit den Gurken-, Schalotten- und Paprikawürfeln mischen. Mayonnaise, Sahne und Ketchup darunter rühren und mit Salz und Chillipulver abschmecken."
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name": "Tomaten-Vinaigrette",
+      "category": "Salatsoße Salatdressing",
+      "portion": "4 Portionen",
+      "source": "#",
+      "ingredients": {
+        "1": "2EL Weißweinessig",
+        "2": "8EL Olivenöl",
+        "3": "Salz",
+        "4": "schwarzer Pfeffer (gemahlen)",
+        "5": "2 kleine Tomaten",
+        "6": "1 kleine gelbe Paprikaschote",
+        "7": "1 kleine Zucchini",
+        "8": "8 Basilikumblättchen"
+      },
+      "preperation": {
+        "time": "20 Min.",
+        "direction": {
+          "1": "Essig, Öl, Salz und Pfeffer verrühren, bis sich das Salz aufgelöst hat.",
+          "2": "Tomaten, Paprika und Zucchini abbrausen und putzen. Tomaten und Paprika entkernen. Gemüse in sehr kleine Würfel schneiden.",
+          "3": "Die Basilikumblättchen in feine Streifen schneiden. Basilikum und Gemüsewürfel mit der Vinaigrette vermischen."
+        }
+      }
     }
   ]
