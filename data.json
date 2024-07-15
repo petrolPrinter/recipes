@@ -447,5 +447,36 @@
           "3": "Die Basilikumblättchen in feine Streifen schneiden. Basilikum und Gemüsewürfel mit der Vinaigrette vermischen."
         }
       }
+    },
+    {
+      "id": 16,
+      "name": "Gebratener-Seeteufel in Gemüse-Sahne-Soße",
+      "category": "Gerichte",
+      "portion": "4 Portionen",
+      "source": "https://www.kreativ-kochen-stuttgart.de/",
+      "ingredients": {
+        "1": "2 Möhren",
+        "2": "1 kleine Zwiebel",
+        "3": "2 kleine Zucchini",
+        "4": "1 kleine Fenchelknolle",
+        "5": "5EL Butter",
+        "6": "100ml Gemüsefond (Glas)",
+        "7": "Salz",
+        "8": "weißer Pfeffer",
+        "9": "3 Stängel Kärbel",
+        "10": "4 Seeteufelfilets",
+        "11": "Mehl (zum Bestäuben)",
+        "12": "250g  leicht geschlagene Schlagsahne",
+        "13": "abgeriebene Zitronenschale (unbehandelt)"
+      },
+      "preperation": {
+        "time": "20 Min.",
+        "direction": {
+          "1": "Möhren schälen, Zwiebeln abziehen, Zucchini und Fenchel waschen. Alles sehr klein würfeln. 3EL Butter erhitzen, das Gemüse kurz andünsten. Fond zugeben, mit Salz und Pfeffer würzen, 1 Minute köcheln, beiseite stelle. Kerbel abbrausen. Blättchen abzupfen",
+          "2": "Seeteufelfilets mit Salz und Pfeffer würzen undmit Mehl bestäuben. In der restlichen heißen Butter auf beiden Seiten jeweils 2 Minuten braten.",
+          "3": "Gemüse nochmal kurz erhitzen, Sahne unterziehen und das ganze über den Fisch gießen. Mit Kerbelblättchen garnieren.",
+          "4": "--TIPP: Geht auch mit CHICKEN-NUGGETS--"
+        }
+      }
     }
   ]
