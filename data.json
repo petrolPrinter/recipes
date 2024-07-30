@@ -478,5 +478,560 @@
           "4": "--TIPP: Geht auch mit CHICKEN-NUGGETS--"
         }
       }
+    },
+    {
+      "id": 17,
+      "name": "Ananas-Kokos-Wasser",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "100 g Ananas",
+        "2": "10 g frischer Bio-Ingwer",
+        "3": "½ scharfe Chilischote",
+        "4": "50 g Kokosnussfleisch, in Spalten",
+        "5": "250 ml Kokosnusswasser, ungezuckert",
+        "6": "750 ml Wasser, still oder sprudelnd"
+      },
+      "preperation": {
+        "time": "2 Std. 15 Min.",
+        "direction": {
+          "1": "Die Ananas sowie den Ingwer waschen und in feine Scheiben schneiden. Die Chilischote längs halbieren und dann entkernen.",
+          "2": "Alles zusammen mit dem Kokosnussfleisch vermengen und mit dem Kokosnusswasser sowie dem stillen oder sprudelnden Wasser aufgießen.",
+          "3": "Mindestens 2 Stunden im Kühlschrank ziehen lassen, am besten aber über Nacht, und auf Eis servieren."
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name": "Rote-Bete-Wasser",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "50-70 g Rote Bete",
+        "2": "10 g frischer Bio-Ingwer",
+        "3": "10 g Zitronenthymian",
+        "4": "½ Bio-Limette",
+        "5": "1 l Wasser, still oder sprudelnd"
+      },
+      "preperation": {
+        "time": "2 Std. 15 Min.",
+        "direction": {
+          "1": "Die Rote Bete schälen und den Ingwer gründlich waschen und in feine Scheiben schneiden.",
+          "2": "Den Zitronenthymian unter fließendem Wasser abbrausen, die Limette heiß abwaschen und ebenfalls in feine Scheiben schneiden.",
+          "3": "Zusammen mit dem Wasser aufgießen und mindestens 2 Stunden im Kühlschrank ziehen lassen, am besten aber über Nacht, und auf Eis servieren."
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name": "Karamell-Popcorn",
+      "category": "Snack",
+      "portion": "2",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "2-4 EL Rapsöl",
+        "2": "150g Popcorn-Mais",
+        "3": "100 g Zucker",
+        "4": "50 ml Honig",
+        "5": "30 g Butter",
+        "6": "50 ml Sahne",
+        "7": "½ TL Backpulver",
+        "8": "½ TL Meersalz"
+      },
+      "preperation": {
+        "time": "45 Min.",
+        "direction": {
+          "1": "Das Rapsöl in einen breiten Topf geben, sodass der Topfboden gleichmäßig bedeckt ist. Das Öl stark erhitzen und dann den Popcorn-Mais zugeben. Zugedeckt bei mittlerer Hitze aufpoppen lassen, bis keine Geräusche mehr zu hören sind.",
+          "2": "Für das Karamell den Zucker zusammen mit dem Honig karamellisieren, die Butter sowie die Sahne zugeben und etwa 2 Minuten köcheln lassen, bis der Karamell Blasen wirft. Das Backpulver mit dem Meersalz in den Karamell geben. Vorsicht, es schäumt stark auf!",
+          "3": "Den Karamell über das fertige Popcorn geben und schnell verrühren, im Backofen bei 120 °C Umluft 15 Minuten trocknen."
+        }
+      }
+    },
+    {
+      "id": 20,
+      "name": "Käsecracker",
+      "category": "Snack",
+      "portion": "10",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "50 g Haferflocken",
+        "2": "60 ml Milch",
+        "3": "40 g Butter (zimmerwarm)",
+        "4": "1 Ei",
+        "5": "80 g Dinkel-Vollkornmehl",
+        "6": "⅓ TL Backpulver",
+        "7": "⅓ TL Meersalz",
+        "8": "100 g würziger Käse (z.B. Cheddar oder Bergkäse, gerieben)",
+        "9": "1 Eigelb",
+        "10": "1 EL Milch"
+      },
+      "preperation": {
+        "time": "40 Min.",
+        "direction": {
+          "1": "Haferflocken mit Milch übergießen und 5 Minuten quellen lassen.",
+          "2": "Butter cremig rühren, Ei unterrühren.",
+          "3": "Haferflockenmischung, Mehl, Backpulver, Salz und Käse verkneten.",
+          "4": "Teig zu einer Rolle formen, in Scheiben schneiden und auf ein mit Backpapier ausgelegtes Blech legen.",
+          "5": "Eigelb mit Milch verquirlen und die Cracker damit bestreichen.",
+          "6": "Im vorgeheizten Ofen bei 180°C ca. 15-20 Minuten backen, bis sie goldbraun sind."
+        }
+      }
+    },
+    {
+      "id": 21,
+      "name": "Gemüsechips",
+      "category": "Snack",
+      "portion": "4",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "500 g Gemüse (z.B. bunte Bete, Süßkartoffeln, Möhren)",
+        "2": "1-2 EL Olivenöl",
+        "3": "½ TL Kreuzkümmel",
+        "4": "½ TL Cayennepfeffer",
+        "5": "1 TL Meersalz"
+      },
+      "preparation": {
+        "time": "1 Std.",
+        "direction": {
+          "1": "Gemüse waschen, schälen und in dünne Scheiben hobeln.",
+          "2": "Gemüsescheiben mit Öl, Kreuzkümmel, Cayennepfeffer und Salz marinieren.",
+          "3": "Auf einem mit Backpapier ausgelegten Blech verteilen.",
+          "4": "Im Ofen bei 120°C Umluft 30-60 Minuten backen, dabei gelegentlich wenden."
+        }
+      }
+    },
+    {
+      "id": 22,
+      "name": "Mango-Kurkuma-Lassi",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "0,5 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "200 g Mango (entkernt, geschält)",
+        "2": "150 g griechischer Joghurt (10% Fett)",
+        "3": "40 ml Limettensaft (frisch gepresst)",
+        "4": "1 TL Kurkuma (frisch gerieben)",
+        "5": "½ TL Ingwer (frisch gerieben)",
+        "6": "Meersalz",
+        "7": "Honig"
+      },
+      "preparation": {
+        "time": "10 Min.",
+        "direction": {
+          "1": "Mango, Joghurt, Limettensaft und 120ml kaltes Wasser in einem Mixer pürieren.",
+          "2": "Kurkuma und Ingwer hinzufügen und nochmals kurz mixen.",
+          "3": "Mit Salz und Honig abschmecken.",
+          "4": "Gekühlt servieren und nach Belieben mit Minze garnieren."
+        }
+      }
+    },
+    {
+      "id": 23,
+      "name": "Johannisbeer-Lassi",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "0,5 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "250 g frische Rote Johannisbeeren",
+        "2": "80 g griechischer Joghurt (10% Fett)",
+        "3": "100 ml Grapefruitsaft (frisch gepresst)",
+        "4": "2-4 EL Honig",
+        "5": "⅓ TL Meersalz"
+      },
+      "preparation": {
+        "time": "10 Min.",
+        "direction": {
+          "1": "Johannisbeeren waschen und von den Rispen zupfen.",
+          "2": "Johannisbeeren, Joghurt, Grapefruitsaft, Honig und Salz in einem Mixer mit 120ml kaltem Wasser pürieren.",
+          "3": "Für einige Zeit kühl stellen.",
+          "4": "Vor dem Servieren einige Johannisbeerenrispen in Zucker wälzen und als Dekoration am Glasrand befestigen."
+        }
+      }
+    },
+    {
+      "id": 24,
+      "name": "Cold-Brew-Coffee",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "100 g frisch gemahlener Kaffee",
+        "2": "500 ml kaltes Wasser",
+        "3": "50 ml Kokosblütensirup",
+        "4": "½ Tonkabohne",
+        "5": "1 Pr. Ceylon-Zimt",
+        "6": "Meersalz",
+        "7": "250 ml Milch",
+        "8": "150 ml kalte Sahne"
+      },
+      "preparation": {
+        "time": "12 Std. 15 Min.",
+        "direction": {
+          "1": "Den frisch gemahlenen Kaffee mit 500ml kaltem Wasser übergießen und zugedeckt 12-24 Stunden im Kühlschrank ziehen lassen.",
+          "2": "Danach durch einen Kaffeefilter sieben. Das Kaffeekonzentrat mischt man nun im Verhältnis 1:2-1:3 mit Wasser."
+        }
+      }
+    },
+    {
+      "id": 25,
+      "name": "Chai-Eiskaffee",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1,3 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "1 Stange Ceylon-Zimt",
+        "2": "5 Kardamomkapseln",
+        "3": "2 Sternanis",
+        "4": "3 Nelken",
+        "5": "1 TL Fenchelsaat",
+        "6": "20 g frischer Bio-Ingwer",
+        "7": "½ TL Muskatnuss",
+        "8": "75 g Kaffee (frisch gemahlen)",
+        "9": "1,1 l Wasser",
+        "10": "Milch",
+        "11": "Agavendicksaft"
+      },
+      "preparation": {
+        "time": "45 Min.",
+        "direction": {
+          "1": "Gewürze (außer Muskatnuss) im Mörser zerstoßen und in einem Topf anrösten.",
+          "2": "Ingwer und Muskatnuss dazugeben und mit Wasser aufgießen.",
+          "3": "Kaffee zugeben und 30 Minuten ziehen lassen.",
+          "4": "Mischung filtern.",
+          "5": "Eiskaffee nach Belieben mit Milch und Agavendicksaft süßen und auf Eis servieren."
+        }
+      }
+    },
+    {
+      "id": 26,
+      "name": "Pfirsich-Eistee",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1,5 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "400 g reife Pfirsiche",
+        "2": "100 ml Limettensaft (frisch gepresst)",
+        "3": "180 g Rohrzucker",
+        "4": "50 g Basilikum",
+        "5": "Meersalz",
+        "6": "1 L grüner Tee"
+      },
+      "preparation": {
+        "time": "45 Min.",
+        "direction": {
+          "1": "Pfirsiche waschen, halbieren, entsteinen und in Stücke schneiden.",
+          "2": "Pfirsichstücke, Limettensaft, 350ml Wasser und Rohrzucker aufkochen und 15-20 Minuten köcheln lassen.",
+          "3": "Basilikum und Salz hinzufügen und 10 Minuten ziehen lassen.",
+          "4": "Mischung durch ein Sieb passieren.",
+          "5": "Pfirsichsirup mit 1L grünem Tee aufgießen und servieren."
+        }
+      }
+    },
+    {
+      "id": 27,
+      "name": "Erdbeer-Wasser",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1,3 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "100 g Erdbeeren",
+        "2": "50 g Fenchel",
+        "3": "½ Bio-Limette",
+        "4": "½ Vanilleschote",
+        "5": "1,1 L Wasser (still oder sprudelnd)"
+      },
+      "preparation": {
+        "time": "2 Std. 15 Min.",
+        "direction": {
+          "1": "Erdbeeren und Fenchel gründlich waschen.",
+          "2": "Erdbeeren in feine Scheiben schneiden und Fenchel hobeln.",
+          "3": "Limette heiß abwaschen und in Scheiben schneiden.",
+          "4": "Vanilleschote längs halbieren.",
+          "5": "Alle Zutaten mit Wasser in einem Behälter vermischen.",
+          "6": "Mindestens 2 Stunden, am besten über Nacht, im Kühlschrank ziehen lassen.",
+          "7": "Vor dem Servieren filtern und auf Eis servieren."
+        }
+      }
+    },
+    {
+      "id": 28,
+      "name": "Birken-Birnen-Wasser",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1,2 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "150 g reife Birnen",
+        "2": "5 g Minze",
+        "3": "300 ml Birkensaft (ungezuckert)",
+        "4": "700 ml Wasser (still oder sprudelnd)"
+      },
+      "preparation": {
+        "time": "2 Std. 15 Min.",
+        "direction": {
+          "1": "Die Birnen waschen und in feine Scheiben schneiden.",
+          "2": "Die Minze unter fließendem Wasser abbrausen.",
+          "3": "Alles zusammen mit dem Birkensaft sowie dem Wasser aufgießen.",
+          "4": "Für mindestens 2 Stunden im Kühlschrank ziehen lassen, am besten aber über Nacht.",
+          "5": "Auf Eis servieren."
+        }
+      }
+    },
+    {
+      "id": 29,
+      "name": "Sanddorn-Fassbrause",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1,2 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "700 ml naturtrüber Apfelsaft",
+        "2": "350 g Sanddornbeeren (tiefgekühlt)",
+        "3": "Zesten von 1 Bio-Zitrone",
+        "4": "80 ml Zitronensaft (frisch gepresst)",
+        "5": "40 g Rohrohrzucker",
+        "6": "1 Stange Süßholz (ca. 12 cm)",
+        "7": "1 Sternanis",
+        "8": "2 EL Malzextrakt",
+        "9": "Meersalz",
+        "10": "Sprudelwasser"
+      },
+      "preparation": {
+        "time": "40 Min.",
+        "direction": {
+          "1": "Naturtrüben Apfelsaft, Sanddornbeeren, Zitronenzesten und Zitronensaft vermengen.",
+          "2": "Mit Rohrohrzucker und Süßholz kurz aufkochen und 20 Minuten köcheln lassen.",
+          "3": "Malzextrakt und Meersalz hinzufügen und pürieren.",
+          "4": "Durch ein Passiertuch geben und abkühlen lassen.",
+          "5": "Nach Belieben mit Sprudelwasser aufgießen und servieren."
+        }
+      }
+    },
+    {
+      "id": 30,
+      "name": "Ingwer-Fassbrause",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "0,5 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "120 g frischer Bio-Ingwer",
+        "2": "Zesten von 1 Bio-Zitrone",
+        "3": "200 ml Zitronensaft (frisch gepresst)",
+        "4": "35 g Rohrohrzucker",
+        "5": "2 Stangen Süßholz (je ca. 12 cm)",
+        "6": "50 g Estragon",
+        "7": "2-3 EL Malzextrakt",
+        "8": "Meersalz",
+        "9": "Sprudelwasser"
+      },
+      "preparation": {
+        "time": "40 Min.",
+        "direction": {
+          "1": "Den Ingwer waschen und mit der Schale grob reiben.",
+          "2": "Ingwer, Zitronenzesten, Zitronensaft, Rohrohrzucker und Süßholz in einem Topf vermischen.",
+          "3": "Ca. 10 Minuten köcheln lassen.",
+          "4": "Estragon, Malzextrakt und eine Prise Salz hinzufügen und weitere 30 Minuten ziehen lassen.",
+          "5": "Die Mischung durch ein Sieb passieren.",
+          "6": "Nach Belieben mit kaltem Sprudelwasser aufgießen und servieren."
+        }
+      }
+    },
+    {
+      "id": 31,
+      "name": "Aprikosen-Fassbrause",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "400 ml naturtrüber Apfelsaft",
+        "2": "120 ml Zitronensaft (frisch gepresst)",
+        "3": "10 g frischer Ingwer",
+        "4": "1 Stange Süßholz (ca. 12 cm)",
+        "5": "450 g reife Aprikosen",
+        "6": "5 g Rosmarin",
+        "7": "1-2 EL Malzextrakt",
+        "8": "Meersalz",
+        "9": "Sprudelwasser"
+      },
+      "preparation": {
+        "time": "40 Min.",
+        "direction": {
+          "1": "Naturtrüben Apfelsaft mit Zitronensaft verrühren.",
+          "2": "Ingwer in dünne Scheiben schneiden und mit Saft und Süßholz kurz aufkochen.",
+          "3": "Aprikosen waschen, halbieren, entkernen und in Stücke schneiden.",
+          "4": "Aprikosenstücke und Rosmarin zum Saft geben und weitere 15 Minuten köcheln.",
+          "5": "Malzextrakt und Meersalz unterrühren.",
+          "6": "Durch ein Passiertuch geben und abkühlen lassen.",
+          "7": "Nach Belieben mit kaltem Sprudelwasser aufgießen und servieren."
+        }
+      }
+    },
+    {
+      "id": 32,
+      "name": "Brombeer-Salbei-Limo",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "450 g frische Brombeeren",
+        "2": "Abrieb von 1 Bio-Zitrone",
+        "3": "120 ml Zitronensaft (frisch gepresst)",
+        "4": "100 ml Orangensaft (frisch gepresst)",
+        "5": "110 g Rohrzucker",
+        "6": "½ Stange Ceylon-Zimt",
+        "7": "5-7 g Salbei",
+        "8": "Meersalz",
+        "9": "Sprudelwasser",
+        "10": "Frische Brombeeren",
+        "11": "Salbeiblätter"
+      },
+      "preparation": {
+        "time": "30 Min.",
+        "direction": {
+          "1": "Brombeeren verlesen und mit Zitronenabrieb, Zitronensaft, Orangensaft, 150ml Wasser und Rohrzucker verrühren.",
+          "2": "Mit Zimtstange aufkochen und 15 Minuten köcheln lassen.",
+          "3": "5 Minuten vor Ende der Kochzeit Salbei und eine Prise Meersalz zugeben.",
+          "4": "Durch ein Passiertuch geben und Brombeeren gut ausdrücken.",
+          "5": "Sirup kühl lagern.",
+          "6": "Nach Belieben mit Sprudelwasser aufgießen und mit Beeren und Salbeiblättern auf Eis servieren."
+        }
+      }
+    },
+    {
+      "id": 33,
+      "name": "Zitronengras-Limo",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "0,6 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "300 ml Limettensaft (frisch gepresst)",
+        "2": "Zesten von 1 Bio-Limette",
+        "3": "120 g Rohrzucker",
+        "4": "4-5 Stangen Zitronengras",
+        "5": "20 g frischer Ingwer",
+        "6": "Meersalz",
+        "7": "Sprudelwasser",
+        "8": "Zitronengras"
+      },
+      "preparation": {
+        "time": "30 Min.",
+        "direction": {
+          "1": "Limettensaft, Limettenzesten, 250ml Wasser und Rohrzucker verrühren.",
+          "2": "Zitronengras zerdrücken, in Scheiben schneiden und mit Ingwer und einer Prise Salz zum Limettensaft geben.",
+          "3": "Kurz aufkochen und bei geringer Hitze 10 Minuten köcheln lassen.",
+          "4": "10 Minuten ziehen lassen.",
+          "5": "Durch ein Sieb geben und kühl lagern.",
+          "6": "Mit Sprudelwasser aufgießen und mit Zitronengras auf Eis servieren."
+        }
+      }
+    },
+    {
+      "id": 34,
+      "name": "Yuzu-Limonade",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "0,75 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "150 ml Yuzu Saft",
+        "2": "120 ml Zitronensaft (frisch gepresst)",
+        "3": "Zesten von einer Bio-Zitrone (oder Yuzu)",
+        "4": "180g Rohrzucker",
+        "5": "Meersalz",
+        "6": "Sprudelwasser",
+        "7": "Zesten von Bio-Zitrone oder Yuzu"
+      },
+      "preparation": {
+        "time": "30 Min.",
+        "direction": {
+          "1": "Yuzu Saft, Zitronensaft, Zitronenzesten, 250ml Wasser und Rohrzucker verrühren.",
+          "2": "Mit 2 Prisen Meersalz verfeinern und kurz aufkochen.",
+          "3": "Bei geringer Hitze 10 Minuten köcheln lassen und anschließend durch ein feines Sieb geben.",
+          "4": "Den Sirup kühl lagern.",
+          "5": "Nach Belieben mit Sprudelwasser aufgießen und mit 1 Yuzu oder Zitronenzeste auf Eis servieren."
+        }
+      }
+    },
+    {
+      "id": 35,
+      "name": "Snwo Cones  - Blaubere Lavendel",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "300 g Blaubeeren",
+        "2": "120 ml Orangensaft (frisch gepresst)",
+        "3": "80 ml Zitronensaft (frisch geprest)",
+        "4": "200 ml Wasser",
+        "5": "100 g Rohrzucker",
+        "6": "5 g frischer Ingwer",
+        "7": "1-2 TL Lavendelblüten",
+        "8": "1 Pr. Meersalz"
+      },
+      "preparation": {
+        "time": "40 Min.",
+        "direction": {
+          "1": "Die Früchte oder Beeren gründlich waschen und bis auf die Blaubeeren grob klein schneiden.",
+          "2": "Alle Zutaten, bis auf die frischen Kräuter, miteinander verrühren und kurz aufkochen.",
+          "3": "Bei geringer Hitze 15 Minuten köcheln lassen, 3 Minuten vor Ende der Kochzeit die frischen Kräuter zugeben.",
+          "4": "Anschließend durch ein Passiertuch geben und dabei die Früchte und Beeren gut ausdrücken.",
+          "5": "Den Sirup kühl lagern.",
+          "6": "Nach Belieben das Shaved Ice mit dem gut vorgekühlten Sirup tränken."
+        }
+      }
+    },
+    {
+      "id": 36,
+      "name": "Snwo Cones - Rhabrber Zitronenmelisse",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "1 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "300 g Rhabarber",
+        "2": "150 ml Grapefruitsaft (frisch gepresst)",
+        "3": "80 ml Zitronensaft (frisch geprest)",
+        "4": "200 ml Wasser",
+        "5": "100 g Rohrzucker",
+        "6": "5 g frischer Ingwer",
+        "7": "1-2 TL Lavendelblüten",
+        "8": "1 Pr. Meersalz"
+      },
+      "preparation": {
+        "time": "40 Min.",
+        "direction": {
+          "1": "Die Früchte oder Beeren gründlich waschen und bis auf die Blaubeeren grob klein schneiden.",
+          "2": "Alle Zutaten, bis auf die frischen Kräuter, miteinander verrühren und kurz aufkochen.",
+          "3": "Bei geringer Hitze 15 Minuten köcheln lassen, 3 Minuten vor Ende der Kochzeit die frischen Kräuter zugeben.",
+          "4": "Anschließend durch ein Passiertuch geben und dabei die Früchte und Beeren gut ausdrücken.",
+          "5": "Den Sirup kühl lagern.",
+          "6": "Nach Belieben das Shaved Ice mit dem gut vorgekühlten Sirup tränken."
+        }
+      }
+    },
+    {
+      "id": 37,
+      "name": "Ginger-Beer (Alkoholfrei)",
+      "category": "Getränke, Erfrischung, Durstlöscher, Drink",
+      "portion": "0,6 L",
+      "source": "https://www.buecher.de/artikel/buch/durstloescher-erfrischend-zischend/47217407/",
+      "ingredients": {
+        "1": "180 g frischer Bio-Ingwer",
+        "2": "150 ml Zitronensaft (frisch gepresst)",
+        "3": "Zesten von einer Bio-Zitrone",
+        "4": "250 g Rohrzucker",
+        "5": "Meersalz",
+        "6": "Sprudelwasser",
+        "7": "Zitronenscheiben"
+      },
+      "preparation": {
+        "time": "20 Min.",
+        "direction": {
+          "1": "Den Ingwer waschen und mitsamt der Schale grob reiben.",
+          "2": "Zusammen mit dem frisch gepressten Zitronensaft sowie den Zitronenzesten und dem Rohrzucker verrühren.",
+          "3": "Mit 380 ml Wasser auffüllen, mit 1 Prise Meersalz verfeinern und kurz aufkochen.",
+          "4": "Bei geringer Hitze 15 Minuten köcheln lassen.",
+          "5": "Anschließend vom Herd nehmen und weitere 15 Minuten ziehen lassen, dann durch ein feines Sieb geben.",
+          "6": "Den Sirup kühl lagern."
+        }
+      }
     }
   ]
