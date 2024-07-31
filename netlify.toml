@@ -1,8 +1,0 @@
-[[redirects]]
-  from = "/website/*"
-  to = "/website/:splat"
-  status = 200
-  force = true
-  headers = { 
-    Authorization = "Basic dXNlcjpwYXNz"
-  }
