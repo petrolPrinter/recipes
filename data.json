@@ -352,7 +352,7 @@
     {
       "id": 12,
       "name": "Kräuterbutter",
-      "category": "Sonstige",
+      "category": "Sonstiges",
       "portion": "1 Glas",
       "source": "#",
       "ingredients": {
@@ -377,7 +377,7 @@
     {
       "id": 13,
       "name": "Käse",
-      "category": "Sonstige",
+      "category": "Sonstiges",
       "portion": "500g Käse",
       "source": "#",
       "ingredients": {
@@ -1031,6 +1031,31 @@
           "4": "Bei geringer Hitze 15 Minuten köcheln lassen.",
           "5": "Anschließend vom Herd nehmen und weitere 15 Minuten ziehen lassen, dann durch ein feines Sieb geben.",
           "6": "Den Sirup kühl lagern."
+        }
+      }
+    },
+    {
+      "id": 38,
+      "name": "Thunfisch-Aufstrich",
+      "category": "Sonstiges",
+      "portion": "0,5 L",
+      "source": "#",
+      "ingredients": {
+        "1": "1 Dose Thunfisch",
+        "2": "1 Dose Mais",
+        "3": "1 Zwiebel",
+        "4": "1 Pr. Salz",
+        "5": "Pfeffer",
+        "6": "Mayonaise",
+        "7": "ggf. Naturjoghurt"
+      },
+      "preparation": {
+        "time": "20 Min.",
+        "direction": {
+          "1": "Den Saft in der Mais und in der Thunfisch Dose abgießen.",
+          "2": "Zwiebel schälen und kleinschneiden.",
+          "3": "Alle Zutaten und Gewürze in eine Schüssel geben und rühren.",
+          "4": "Bei Bedarf kann auch Naturjoghurt verwendet werden"
         }
       }
     }
